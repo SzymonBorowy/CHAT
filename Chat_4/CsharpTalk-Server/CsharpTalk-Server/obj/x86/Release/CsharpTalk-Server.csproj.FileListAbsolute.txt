@@ -1,0 +1,10 @@
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\bin\Release\csharptalkserver.exe.config
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\bin\Release\csharptalkserver.exe
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\bin\Release\csharptalkserver.pdb
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\obj\x86\Release\CsharpTalk_Server.frmMain.resources
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\obj\x86\Release\CsharpTalk_Server.Properties.Resources.resources
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\obj\x86\Release\csharptalkserver.exe
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\obj\x86\Release\csharptalkserver.pdb

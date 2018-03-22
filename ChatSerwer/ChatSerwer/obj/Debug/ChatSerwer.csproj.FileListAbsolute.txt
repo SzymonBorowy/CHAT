@@ -1,0 +1,9 @@
+c:\users\voltpc3\documents\visual studio 2015\Projects\ChatSerwer\ChatSerwer\bin\Debug\ChatSerwer.exe.config
+c:\users\voltpc3\documents\visual studio 2015\Projects\ChatSerwer\ChatSerwer\bin\Debug\ChatSerwer.exe
+c:\users\voltpc3\documents\visual studio 2015\Projects\ChatSerwer\ChatSerwer\bin\Debug\ChatSerwer.pdb
+c:\users\voltpc3\documents\visual studio 2015\Projects\ChatSerwer\ChatSerwer\obj\Debug\ChatSerwer.csprojResolveAssemblyReference.cache
+c:\users\voltpc3\documents\visual studio 2015\Projects\ChatSerwer\ChatSerwer\obj\Debug\ChatSerwer.Form1.resources
+c:\users\voltpc3\documents\visual studio 2015\Projects\ChatSerwer\ChatSerwer\obj\Debug\ChatSerwer.Properties.Resources.resources
+c:\users\voltpc3\documents\visual studio 2015\Projects\ChatSerwer\ChatSerwer\obj\Debug\ChatSerwer.csproj.GenerateResource.Cache
+c:\users\voltpc3\documents\visual studio 2015\Projects\ChatSerwer\ChatSerwer\obj\Debug\ChatSerwer.exe
+c:\users\voltpc3\documents\visual studio 2015\Projects\ChatSerwer\ChatSerwer\obj\Debug\ChatSerwer.pdb

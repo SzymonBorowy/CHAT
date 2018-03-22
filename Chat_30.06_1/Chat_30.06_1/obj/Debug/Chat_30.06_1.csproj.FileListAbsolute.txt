@@ -1,0 +1,9 @@
+c:\users\voltpc3\documents\visual studio 2015\Projects\Chat_30.06_1\Chat_30.06_1\bin\Debug\Chat_30.06_1.exe.config
+c:\users\voltpc3\documents\visual studio 2015\Projects\Chat_30.06_1\Chat_30.06_1\bin\Debug\Chat_30.06_1.exe
+c:\users\voltpc3\documents\visual studio 2015\Projects\Chat_30.06_1\Chat_30.06_1\bin\Debug\Chat_30.06_1.pdb
+c:\users\voltpc3\documents\visual studio 2015\Projects\Chat_30.06_1\Chat_30.06_1\obj\Debug\Chat_30.06_1.csprojResolveAssemblyReference.cache
+c:\users\voltpc3\documents\visual studio 2015\Projects\Chat_30.06_1\Chat_30.06_1\obj\Debug\Chat_30._06_1.Form1.resources
+c:\users\voltpc3\documents\visual studio 2015\Projects\Chat_30.06_1\Chat_30.06_1\obj\Debug\Chat_30._06_1.Properties.Resources.resources
+c:\users\voltpc3\documents\visual studio 2015\Projects\Chat_30.06_1\Chat_30.06_1\obj\Debug\Chat_30.06_1.csproj.GenerateResource.Cache
+c:\users\voltpc3\documents\visual studio 2015\Projects\Chat_30.06_1\Chat_30.06_1\obj\Debug\Chat_30.06_1.exe
+c:\users\voltpc3\documents\visual studio 2015\Projects\Chat_30.06_1\Chat_30.06_1\obj\Debug\Chat_30.06_1.pdb

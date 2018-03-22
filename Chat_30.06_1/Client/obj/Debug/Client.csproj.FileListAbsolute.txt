@@ -1,0 +1,8 @@
+c:\users\voltpc3\documents\visual studio 2015\Projects\Chat_30.06_1\Client\bin\Debug\Client.exe.config
+c:\users\voltpc3\documents\visual studio 2015\Projects\Chat_30.06_1\Client\bin\Debug\Client.exe
+c:\users\voltpc3\documents\visual studio 2015\Projects\Chat_30.06_1\Client\bin\Debug\Client.pdb
+c:\users\voltpc3\documents\visual studio 2015\Projects\Chat_30.06_1\Client\obj\Debug\Client.Form1.resources
+c:\users\voltpc3\documents\visual studio 2015\Projects\Chat_30.06_1\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\voltpc3\documents\visual studio 2015\Projects\Chat_30.06_1\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\voltpc3\documents\visual studio 2015\Projects\Chat_30.06_1\Client\obj\Debug\Client.exe
+c:\users\voltpc3\documents\visual studio 2015\Projects\Chat_30.06_1\Client\obj\Debug\Client.pdb

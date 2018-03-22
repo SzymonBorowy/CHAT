@@ -1,0 +1,15 @@
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-ClientApp\CsharpTalk-ClientApp\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-ClientApp\CsharpTalk-ClientApp\obj\x86\Release\CsharpTalk_ClientApp.frmMain.resources
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-ClientApp\CsharpTalk-ClientApp\obj\x86\Release\CsharpTalk_ClientApp.frmNewAccount.resources
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-ClientApp\CsharpTalk-ClientApp\obj\x86\Release\CsharpTalk_ClientApp.Properties.Resources.resources
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-ClientApp\CsharpTalk-ClientApp\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-ClientApp\CsharpTalk-ClientApp\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-ClientApp\CsharpTalk-ClientApp\bin\Release\csharptalk.exe.config
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-ClientApp\CsharpTalk-ClientApp\bin\Release\csharptalk.exe
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-ClientApp\CsharpTalk-ClientApp\bin\Release\csharptalk.pdb
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-ClientApp\CsharpTalk-ClientApp\obj\x86\Release\CsharpTalk_ClientApp.frmChangePassword.resources
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-ClientApp\CsharpTalk-ClientApp\obj\x86\Release\CsharpTalk_ClientApp.frmDeleteAccount.resources
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-ClientApp\CsharpTalk-ClientApp\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-ClientApp\CsharpTalk-ClientApp\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-ClientApp\CsharpTalk-ClientApp\obj\x86\Release\csharptalk.exe
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-ClientApp\CsharpTalk-ClientApp\obj\x86\Release\csharptalk.pdb

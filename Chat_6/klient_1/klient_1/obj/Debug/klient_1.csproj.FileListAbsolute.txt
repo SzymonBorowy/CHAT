@@ -1,0 +1,9 @@
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_6\klient_1\klient_1\bin\Debug\klient_1.exe.config
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_6\klient_1\klient_1\bin\Debug\klient_1.exe
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_6\klient_1\klient_1\bin\Debug\klient_1.pdb
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_6\klient_1\klient_1\obj\Debug\klient_1.csprojResolveAssemblyReference.cache
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_6\klient_1\klient_1\obj\Debug\klient_1.Form1.resources
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_6\klient_1\klient_1\obj\Debug\klient_1.Properties.Resources.resources
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_6\klient_1\klient_1\obj\Debug\klient_1.csproj.GenerateResource.Cache
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_6\klient_1\klient_1\obj\Debug\klient_1.exe
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_6\klient_1\klient_1\obj\Debug\klient_1.pdb

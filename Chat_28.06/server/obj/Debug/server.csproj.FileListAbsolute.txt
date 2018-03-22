@@ -1,0 +1,6 @@
+c:\Users\VOLTPC3\documents\visual studio 2015\Projects\Chat_28.06\server\bin\Debug\server.exe.config
+c:\Users\VOLTPC3\documents\visual studio 2015\Projects\Chat_28.06\server\bin\Debug\server.exe
+c:\Users\VOLTPC3\documents\visual studio 2015\Projects\Chat_28.06\server\bin\Debug\server.pdb
+c:\Users\VOLTPC3\documents\visual studio 2015\Projects\Chat_28.06\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+c:\Users\VOLTPC3\documents\visual studio 2015\Projects\Chat_28.06\server\obj\Debug\server.exe
+c:\Users\VOLTPC3\documents\visual studio 2015\Projects\Chat_28.06\server\obj\Debug\server.pdb

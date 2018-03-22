@@ -1,0 +1,9 @@
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_6\Serwer_1\Serwer_1\bin\Debug\Serwer_1.exe.config
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_6\Serwer_1\Serwer_1\bin\Debug\Serwer_1.exe
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_6\Serwer_1\Serwer_1\bin\Debug\Serwer_1.pdb
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_6\Serwer_1\Serwer_1\obj\Debug\Serwer_1.csprojResolveAssemblyReference.cache
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_6\Serwer_1\Serwer_1\obj\Debug\Serwer_1.Form1.resources
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_6\Serwer_1\Serwer_1\obj\Debug\Serwer_1.Properties.Resources.resources
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_6\Serwer_1\Serwer_1\obj\Debug\Serwer_1.csproj.GenerateResource.Cache
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_6\Serwer_1\Serwer_1\obj\Debug\Serwer_1.exe
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_6\Serwer_1\Serwer_1\obj\Debug\Serwer_1.pdb

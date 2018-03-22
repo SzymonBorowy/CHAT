@@ -1,0 +1,10 @@
+c:\Users\Marta\documents\visual studio 2017\Projects\Chat_2\Client\bin\Debug\Client.exe.config
+c:\Users\Marta\documents\visual studio 2017\Projects\Chat_2\Client\bin\Debug\Client.exe
+c:\Users\Marta\documents\visual studio 2017\Projects\Chat_2\Client\bin\Debug\Client.pdb
+c:\Users\Marta\documents\visual studio 2017\Projects\Chat_2\Client\bin\Debug\SimpleTCP.dll
+c:\Users\Marta\documents\visual studio 2017\Projects\Chat_2\Client\obj\Debug\Client.Form1.resources
+c:\Users\Marta\documents\visual studio 2017\Projects\Chat_2\Client\obj\Debug\Client.Properties.Resources.resources
+c:\Users\Marta\documents\visual studio 2017\Projects\Chat_2\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\Users\Marta\documents\visual studio 2017\Projects\Chat_2\Client\obj\Debug\Client.exe
+c:\Users\Marta\documents\visual studio 2017\Projects\Chat_2\Client\obj\Debug\Client.pdb
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

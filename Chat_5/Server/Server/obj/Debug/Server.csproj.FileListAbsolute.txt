@@ -1,0 +1,6 @@
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_5\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_5\Server\Server\bin\Debug\Server.exe
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_5\Server\Server\bin\Debug\Server.pdb
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_5\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_5\Server\Server\obj\Debug\Server.exe
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_5\Server\Server\obj\Debug\Server.pdb

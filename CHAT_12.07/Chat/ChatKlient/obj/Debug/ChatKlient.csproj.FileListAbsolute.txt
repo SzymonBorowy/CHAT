@@ -1,0 +1,9 @@
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\CHAT_12.07\Chat\ChatKlient\bin\Debug\ChatKlient.exe.config
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\CHAT_12.07\Chat\ChatKlient\bin\Debug\ChatKlient.exe
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\CHAT_12.07\Chat\ChatKlient\bin\Debug\ChatKlient.pdb
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\CHAT_12.07\Chat\ChatKlient\obj\Debug\ChatKlient.Gra.resources
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\CHAT_12.07\Chat\ChatKlient\obj\Debug\ChatKlient.Klient.resources
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\CHAT_12.07\Chat\ChatKlient\obj\Debug\ChatKlient.Properties.Resources.resources
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\CHAT_12.07\Chat\ChatKlient\obj\Debug\ChatKlient.csproj.GenerateResource.Cache
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\CHAT_12.07\Chat\ChatKlient\obj\Debug\ChatKlient.exe
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\CHAT_12.07\Chat\ChatKlient\obj\Debug\ChatKlient.pdb

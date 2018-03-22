@@ -1,0 +1,8 @@
+obj\Release\Serwer.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Serwer.Properties.Resources.resources
+obj\Release\Serwer.frmSerwer.resources
+obj\Release\Serwer.csproj.GenerateResource.Cache
+bin\Release\Serwer.exe
+bin\Release\Serwer.pdb
+obj\Release\Serwer.pdb

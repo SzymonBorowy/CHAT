@@ -1,0 +1,10 @@
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\obj\x86\Debug\CsharpTalk_Server.frmMain.resources
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\obj\x86\Debug\CsharpTalk_Server.Properties.Resources.resources
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\bin\Debug\csharptalkserver.exe.config
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\bin\Debug\csharptalkserver.exe
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\bin\Debug\csharptalkserver.pdb
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\obj\x86\Debug\csharptalkserver.exe
+D:\Programy\!Programowanie\Moje programy\CSharp-Talk\CsharpTalk-Server\CsharpTalk-Server\obj\x86\Debug\csharptalkserver.pdb

@@ -1,0 +1,8 @@
+bin\Release\Klient.exe
+bin\Release\Klient.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Klient.Klient.resources
+obj\Release\Klient.Properties.Resources.resources
+obj\Release\Klient.csproj.GenerateResource.Cache
+obj\Release\Klient.exe
+obj\Release\Klient.pdb

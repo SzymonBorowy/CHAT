@@ -1,0 +1,5 @@
+c:\users\voltpc3\documents\visual studio 2015\Projects\chat_4.07\chat_4.07\bin\Debug\chat_4.07.exe.config
+c:\users\voltpc3\documents\visual studio 2015\Projects\chat_4.07\chat_4.07\bin\Debug\chat_4.07.exe
+c:\users\voltpc3\documents\visual studio 2015\Projects\chat_4.07\chat_4.07\bin\Debug\chat_4.07.pdb
+c:\users\voltpc3\documents\visual studio 2015\Projects\chat_4.07\chat_4.07\obj\Debug\chat_4.07.exe
+c:\users\voltpc3\documents\visual studio 2015\Projects\chat_4.07\chat_4.07\obj\Debug\chat_4.07.pdb

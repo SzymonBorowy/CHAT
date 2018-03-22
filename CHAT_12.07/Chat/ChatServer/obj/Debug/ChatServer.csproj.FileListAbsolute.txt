@@ -1,0 +1,8 @@
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\CHAT_12.07\Chat\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\CHAT_12.07\Chat\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\CHAT_12.07\Chat\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\CHAT_12.07\Chat\ChatServer\obj\Debug\ChatServer.Serwer.resources
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\CHAT_12.07\Chat\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\CHAT_12.07\Chat\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\CHAT_12.07\Chat\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\CHAT_12.07\Chat\ChatServer\obj\Debug\ChatServer.pdb

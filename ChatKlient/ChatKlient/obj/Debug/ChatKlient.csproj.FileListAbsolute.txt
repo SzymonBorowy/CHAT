@@ -1,0 +1,9 @@
+c:\users\voltpc3\documents\visual studio 2015\Projects\ChatKlient\ChatKlient\bin\Debug\ChatKlient.exe.config
+c:\users\voltpc3\documents\visual studio 2015\Projects\ChatKlient\ChatKlient\bin\Debug\ChatKlient.exe
+c:\users\voltpc3\documents\visual studio 2015\Projects\ChatKlient\ChatKlient\bin\Debug\ChatKlient.pdb
+c:\users\voltpc3\documents\visual studio 2015\Projects\ChatKlient\ChatKlient\obj\Debug\ChatKlient.Form1.resources
+c:\users\voltpc3\documents\visual studio 2015\Projects\ChatKlient\ChatKlient\obj\Debug\ChatKlient.Properties.Resources.resources
+c:\users\voltpc3\documents\visual studio 2015\Projects\ChatKlient\ChatKlient\obj\Debug\ChatKlient.csproj.GenerateResource.Cache
+c:\users\voltpc3\documents\visual studio 2015\Projects\ChatKlient\ChatKlient\obj\Debug\ChatKlient.exe
+c:\users\voltpc3\documents\visual studio 2015\Projects\ChatKlient\ChatKlient\obj\Debug\ChatKlient.pdb
+C:\Users\VOLTPC3\Documents\Visual Studio 2015\Projects\ChatKlient\ChatKlient\obj\Debug\ChatKlient.csprojResolveAssemblyReference.cache

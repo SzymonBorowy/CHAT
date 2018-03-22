@@ -1,0 +1,10 @@
+c:\users\marta\documents\visual studio 2017\Projects\Chat_2\Chat_2\bin\Debug\Chat_2.exe.config
+c:\users\marta\documents\visual studio 2017\Projects\Chat_2\Chat_2\bin\Debug\Chat_2.exe
+c:\users\marta\documents\visual studio 2017\Projects\Chat_2\Chat_2\bin\Debug\Chat_2.pdb
+c:\users\marta\documents\visual studio 2017\Projects\Chat_2\Chat_2\bin\Debug\SimpleTCP.dll
+c:\users\marta\documents\visual studio 2017\Projects\Chat_2\Chat_2\obj\Debug\Chat_2.csprojResolveAssemblyReference.cache
+c:\users\marta\documents\visual studio 2017\Projects\Chat_2\Chat_2\obj\Debug\Chat_2.Form1.resources
+c:\users\marta\documents\visual studio 2017\Projects\Chat_2\Chat_2\obj\Debug\Chat_2.Properties.Resources.resources
+c:\users\marta\documents\visual studio 2017\Projects\Chat_2\Chat_2\obj\Debug\Chat_2.csproj.GenerateResource.Cache
+c:\users\marta\documents\visual studio 2017\Projects\Chat_2\Chat_2\obj\Debug\Chat_2.exe
+c:\users\marta\documents\visual studio 2017\Projects\Chat_2\Chat_2\obj\Debug\Chat_2.pdb

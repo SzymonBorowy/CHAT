@@ -1,0 +1,6 @@
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_5\Klient\Klient\bin\Debug\Klient.exe.config
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_5\Klient\Klient\bin\Debug\Klient.exe
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_5\Klient\Klient\bin\Debug\Klient.pdb
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_5\Klient\Klient\obj\Debug\Klient.csprojResolveAssemblyReference.cache
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_5\Klient\Klient\obj\Debug\Klient.exe
+C:\Users\Marta\Documents\Visual Studio 2017\Projects\Chat_5\Klient\Klient\obj\Debug\Klient.pdb
